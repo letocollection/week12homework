@@ -1,0 +1,227 @@
+ItemID,ProductName,Price,STOCK QUANTITY,DepartmentName
+1,Plaid Tassel Scarf,8.5,55,Scarf
+2,Argyle Pattern Scarf,10,55,Scarf
+3,Two Tone Fringe Scarf,7.8,55,Scarf
+4,Cable Knit Basket Weave Scarf,8.75,55,Scarf
+5,Diamond Tassel Blanket Scarf,9,55,Scarf
+6,Tribal Blanket Scarf,7.5,55,Scarf
+7,Buffalo Check Blanket Tassel Scarf,8,55,Scarf
+8,Grid Blanket Tassel Scarf,8,55,Scarf
+9,Multicolor Plaid Blanket Tassel Scarf,8,55,Scarf
+10,Knit American Flag Blanket Scarf,16,55,Scarf
+11,Classic Cable Knit Infinity,5.5,55,Scarf
+12,Stripe and Dot Infinity,5,55,Scarf
+13,Elephant Print Scarf,4.9,55,Scarf
+14,Tribal Blanket Infinity,6.75,55,Scarf
+15,Spring Floral Scarf,4.5,55,Scarf
+16,Cosmos Flower Grid Infinity,4.5,55,Scarf
+17,X-Large Chunky Knit Infinity,7.9,24,Scarf
+18,Embroidered Trim Floral Accent Scarf,7.25,24,Scarf
+19,Knit Snood,3.9,24,Scarf
+20,Floral Sketched Infinity,4.5,24,Scarf
+21,Chenille Tassel Infinity,5.8,24,Scarf
+22,Open Grid With Frayed Edges Infinity,4.9,24,Scarf
+23,Tropical Palm Tree Scarf,4.5,24,Scarf
+24,Ribbed Infinity With Fringe,6.9,24,Scarf
+25,Solid Lightweight Scarf,4.2,24,Scarf
+26,Knit Leopard Infinity,6.9,24,Scarf
+27,Pointelle Knit Infinity,5.25,24,Scarf
+28,Lattice Tassel Infinity,5.25,24,Scarf
+29,Mixed Yarn Knit Infinity,8.4,24,Scarf
+30,Plaid Infinity,8.5,24,Scarf
+31,Rolled Cable Knit Infinity,7,24,Scarf
+32,Herringbone Knit Infinity,6.5,24,Scarf
+33,Stripe Accent Blanket Scarf,9,45,Scarf
+34,Hole Knit Infinity,8,45,Scarf
+35,Ribbed Knit Infinity Scarf,5,45,Scarf
+36,Fair Isle Snowflake Knit Scarf,7.5,45,Scarf
+37,Heathered Fringe Shoulder Warmer with Coconut Buttons,5.5,45,Scarf
+38,Tartan Double Side Blanket Scarf,11,45,Scarf
+39,Geometric Blanket Scarf,9,45,Scarf
+40,Solid Cashmere Scarf,7.8,45,Scarf
+41,Frayed Geometric Blanket Scarf,10.5,45,Scarf
+42,Heathered Oversized Tassel Knit Scarf,8.75,45,Scarf
+43,Oversized Tassel Knit Scarf,8.5,45,Scarf
+44,Space Stitch Blanket Scarf,10,45,Scarf
+45,Cable Knit Infinity Scarf,4.5,45,Scarf
+46,Chunky Knit Buttoned Infinity,7,45,Scarf
+47,Flannel Plaid Infinity,6.75,45,Scarf
+48,Faded Windowpane Scarf,4.5,45,Scarf
+49,Faded Plaid Scarf,4.5,45,Scarf
+50,Crinkled Tartan Plaid Scarf,4.5,45,Scarf
+51,Plaid Scarf,4.5,45,Scarf
+52,Classic Plaid Blanket Scarf,6.75,45,Scarf
+53,Classic Plaid Blanket Scarf,6.75,45,Scarf
+54,Net Knit Infinity Scarf,4.5,45,Scarf
+55,Oversized Chain Knit Infinity Scarf,7,45,Scarf
+56,Oversized Knit Tassel Triangle Scarf,7,34,Scarf
+57,Oversized Knit Color Pop Scarf,7.5,34,Scarf
+58,Marled Chunky Knit Infinity Scarf,9.75,34,Scarf
+59,Chunky Geometric Tassel Infinity Scarf,9.75,34,Scarf
+60,Two-Part Knit Infinity + Pocket Scarf,8.75,34,Scarf
+61,Geometric Stripe Scarf,7.5,34,Scarf
+62,Hobo Infinity,10.5,34,Scarf
+63,Multicolor Plaid Scarf,7.8,34,Scarf
+64,Basketweave Plaid Scarf,7.2,34,Scarf
+65,Open Weave Square Scarf,6.5,34,Scarf
+66,Cable Knit Headband,3,34,Headband
+67,Multicolor Marled Bow Headband,3,34,Headband
+68,Chunky Cable Knit Headband,3.25,34,Headband
+69,Fair Isle Bow Knit Headband,3,34,Headband
+70,Braided Knit Headband,3,34,Headband
+71,Cable Knit Crochet Headband,3,34,Headband
+72,Cable Knit Crochet Headband,3,34,Headband
+73,Braid Knit Crochet Headband,3,34,Headband
+74,Braid Front Knit Crochet Headband,2.5,12,Headband
+75,Diamond Stitch Knit Crochet Headband,3,12,Headband
+76,Twisted Knot Knit Crochet Headband,3,12,Headband
+77,Twist Braid Knit Crochet Headband,2.5,12,Headband
+78,Animal Ear Knit Crochet Headband,3.5,12,Headband
+79,Braid Knit Crochet Headband,3,12,Headband
+80,Knit Leaf Pattern Infinity,8,12,Infinity Scarf
+81,Mohair Checkered Infinity,7,12,Infinity Scarf
+82,Ribbed Boot Cuffs,4.25,12,Boot Cuffs
+83,Cable Knit Boot Cuffs,2,12,Boot Cuffs
+84,Lace Trim Boot Socks,5.25,12,Socks
+85,Waffle Knit Beanie,3.6,89,Beanie
+86,Fur Pom Beanie,4,89,Beanie
+87,Pointelle Knit Beanie,4.5,89,Beanie
+88,Oversized Chunky Pom Beanie,4.5,89,Beanie
+89,Slouchy Soft Sheen Beanie,4.2,89,Beanie
+90,Two Tone Pom Cable Knit Beanie,3.75,89,Beanie
+91,Speckled Pom Beanie,4,89,Beanie
+92,Ear Flap Pom Beanie,5.25,89,Beanie
+93,Ear Flap Color Block Beanie,5.25,89,Beanie
+94,Marled Slouch Beanie,4.5,89,Beanie
+95,Knitted and Knotted Beanie,4,89,Beanie
+96,Striped Pom Beanie,3.5,89,Beanie
+97,Marled Chunky Knit Pom Beanie,4.5,89,Beanie
+98,Cable Knit Beanie with Color Pom,4,89,Beanie
+99,Thick Braid Knit Beanie,4.5,89,Beanie
+100,Crochet Lace Pointelle Leg Warmer,5.9,65,Boot Cuff
+101,Lattice Boot Cuff with Button,2.5,65,Boot Cuff
+102,Foldover Cable Knit Boot Cuff,5,65,Boot Cuff
+103,Foldover Cable Knit Boot Cuff,5,65,Boot Cuff
+104,Button Up Lace Trim Leg Warmers,5.75,65,Boot Cuff
+105,Two Tone Marled Boot Cuff,3,65,Boot Cuff
+106,Crochet Lace Pointelle Arm Warmer,4.9,65,Arm Warmer
+107,Chunky Pointelle Boot Socks,5.25,65,Sock
+108,Lace Bow Thigh High Socks,6.3,65,Sock
+109,Button Thigh High Socks,6.3,65,Sock
+110,Fair Isle Lounge Sock,9,65,Lounge Sock
+111,Cable Knit Lounge Sock,9,65,Lounge Sock
+112,American Flag Lounge Sock,9,44,Lounge Sock
+113,Heart Fair Isle Lounge Sock,9,44,Lounge Sock
+114,Woven Jacquard Ruana,11,44,Poncho
+115,Tribal Print Knit Poncho,13,44,Poncho
+116,Tribal Colorblock Vest Poncho,11,44,Poncho
+117,Western Poncho,13,44,Poncho
+118,Colorful Tribal Accent Poncho,13,44,Poncho
+119,Tribal Poncho,13,44,Poncho
+120,Diamond Pattern Poncho,13,44,Poncho
+121,Stripe Accent Poncho,14,44,Poncho
+122,Checkered Plaid Ruana,10,44,Poncho
+123,Heathered Argyle Knit Ruana,18,44,Poncho
+124,Drape Knit Ruana,14,44,Poncho
+125,Rainbow Stitch Heathered Ruana,23,44,Poncho
+126,Aztec Knit Ruana,13,33,Poncho
+127,Heathered Fringe Ruana,15.5,33,Poncho
+128,Tweed Ruana with Pockets,16,33,Poncho
+129,Multicolor Plaid Pocket Ruana,11,33,Poncho
+130,Plaid Ruana,12.5,33,Poncho
+131,Color Block Ruana,15,33,Poncho
+132,"Ultra Thin Strap Seamless Bralette (3XS/S, 3M/L)",3.25,33,Bralette
+133,"Side Criss Cross Seamless Bralette (3XS/S, 3M/L)",5,33,Bralette
+134,"Front Strap Lace Bralette (3XS/S, 3M/L)",7,33,Bralette
+135,"Strappy Lace Bra (3XS/S, 3M/L)",5.25,33,Bralette
+136,"Cross Back Bralette (3XS/S, 3M/L)",3.5,33,Bralette
+137,"Galloon Lace Bralette (3XS/S, 3M/L)",9.75,33,Bralette
+138,"Satin and Lace Top (3XS/S, 3M/L)",7,33,Bralette
+139,"Strappy Front Bralette (2S, 2M, 2L)",7.5,22,Bralette
+140,"Seamless Y Back Bralette (3XS/S, 3M/L)",5,22,Bralette
+141,"Lace Trim Seamless Bralette (3XS/S, 3M/L)",7.5,22,Bralette
+142,"Sheer Lace Cami (3XS/S, 3M/L)",7,22,Bralette
+143,"Lace Cami (3XS/S, 3M/L)",11,22,Bralette
+144,"Galloon Lace Bralette with Back Detail (3XS/S, 3M/L)",8.5,22,Bralette
+145,"Lace Crop Top (3XS/S, 3M/L)",8.5,22,Bralette
+146,"Strappy Back Bralette (3XS/S, 3M/L)",4.75,22,Bralette
+147,"Lace Halter Bralette (2S, 2M, 2L)",8.5,22,Bralette
+148,"Y Strap Crop Top (2S, 2M, 2L)",7.5,22,Bralette
+149,"Seamless Keyhole Strap Back Bralette (3XS/S, 3M/L)",4.5,22,Bralette
+150,"Seamless Straight Strap Bandeau (3XS/S, 3M/L)",4,22,Bralette
+151,"Cross Back and Front Bralette (2S, 2M, 2L)",7.25,22,Bralette
+152,"Floral Lace Bralette with Under Strap (2S, 2M, 2L)",6.5,22,Bralette
+153,"T Lace Back Bralette (2S, 2M, 2L)",7.25,22,Bralette
+154,"Hand Knitted Crochet Bralette (2S, 2M, 2L)",9.75,22,Bralette
+155,"Sporty Lace Up Crop Top (3XS/S, 3M/L)",9.25,22,Bralette
+156,"Crocheted Bralette (2S, 2M, 2L)",12,14,Bralette
+157,"Lace Brami (2S, 2M, 2L)",7.25,14,Bralette
+158,"Seamless Double Strap Bralette (3XS/S, 3M/L)",4.25,14,Bralette
+159,"Hand Knitted Crochet Bralette (2S, 2M, 2L)",9.75,14,Bralette
+160,"Keyhole Strap Bralette (2S, 2M, 2L)",5.25,14,Bralette
+161,"Ribbed Cross Back Triangle Bralette (1XS, 2S, 2M, 1L)",3.25,14,Bralette
+162,"Lace Triangle Back Bralette (2S, 2M, 2L)",8,14,Bralette
+163,"Strappy Lace Bralette (2S, 2M, 2L)",7,14,Bralette
+164,"Strappy Soft Bra (2S, 2M, 2L)",8.5,14,Bralette
+165,"Lace Bandeau with Criss Cross Back (2S, 2M, 2L)",6.25,14,Bralette
+166,"Lace Applique Neckline Bralette (2S, 2M, 2L)",8.5,14,Bralette
+167,"Floral Applique Triangle Bralette (2S, 2M, 2L)",7.8,14,Bralette
+168,"Lace Bandeau with Strap Back Detail (2S, 2M, 2L)",6.5,14,Bralette
+169,"Hand Knitted Crochet Crop Top (2S, 2M, 2L)",11,14,Bralette
+170,"Chambray Cross Back Bralette (2S, 2M, 2L)",9.75,77,Bralette
+171,"Denim Strap Back Bralette  (2S, 2M, 2L)",8.5,77,Bralette
+172,"Skinny Strap Bralette (3XS/S, 3M/L)",6.5,77,Bralette
+173,"Lace Trim Seamless Bralette (2S, 2M, 2L)",7.5,77,Bralette
+174,"Lace Scallop Triangle Bralette (2S, 2M, 2L)",6.5,77,Bralette
+175,"Bold Cross Front Bralette (2S, 2M, 2L)",7.8,77,Bralette
+176,"Lace Scallop Triangle Bralette (2S, 2M, 2L)",8,77,Bralette
+177,"Strappy Back Bralette (2XS/S, 2M/L, 2L/XL)",4.75,77,Bralette
+178,"Sheer Lace Bralette (2S, 2M, 2L)",7,77,Bralette
+179,"Side Detail Strappy Seamless Bralette (2XS/S, 2M/L, 2L/XL)",5,77,Bralette
+180,"Sheer Mesh Bralette (2S, 2M, 2L)",5,77,Bralette
+181,"Criss Cross Understrap Plunge Bralette (2S, 2M, 2L)",9,77,Bralette
+182,"Lace Trim Seamless Bralette (2XS/S, 2M/L, 2L/XL)",7.5,77,Bralette
+183,"Cotton Crocheted Bralette (2XS/S, 2M/L, 2L/XL)",12,77,Bralette
+184,"Bondage Strappy Bralette (2S, 2M, 2L)",8.5,77,Bralette
+185,"Skinny Strap Mesh Trim Cross Back Bralette (2S, 2M, 2L)",6.5,5,Bralette
+186,"Triangle Plunge Bralette (2S, 2M, 2L)",7.5,5,Bralette
+187,"Halter T-Strap Bralette (3XS/S, 3M/L)",7,5,Bralette
+188,"Seamless Front Cross Bralette (3XS/S, 3M/L)",3.25,5,Bralette
+189,"Seamless Lace Up Racerback Bralette (3XS/S, 3M/L)",3.9,5,Bralette
+190,"Plunge Lace Bralette (2S, 2M, 2L)",8.5,5,Bralette
+191,"Choker Bandeau (2S, 2M, 2L)",8.5,5,Bralette
+192,"Seamless Slash Racerback Bralette (3XS/S, 3M/L)",3.5,5,Bralette
+193,"Sheer Eyelash Scallop Lace Cami (2S, 2M, 2L)",7,5,Bralette
+194,"Velvet Strappy Bralette (3XS/S, 3M/L)",8,5,Bralette
+195,"Eyelash Scallop Lace Bralette (2S, 2M, 2L)",8.5,5,Bralette
+196,"Lace Halter Bralette (1X, 2X, 3X)",9.5,22,Bralette
+197,"Seamless Y-Strap Bralette (3XS/S, 3M/L)",4.25,22,Bralette
+198,"Velvet and Lace Half Cami (2S, 2M, 2L)",7.5,22,Bralette
+199,"Strappy Lace Bralette (2S, 2M, 2L)",6.5,22,Bralette
+200,"Eyelash Lace Racerback Bralette (2S, 2M, 2L)",10,22,Bralette
+201,"Lace Trim Skinny Bralette (3XS/S, 3M/L)",7.5,22,Bralette
+202,"Bondage Strappy Bralette (1X/2X, 2X/3X)",9.25,22,Bralette
+203,"Strappy Front Bralette (1X/2X, 2X/3X)",7.5,22,Bralette
+204,"Lace Slip Dress Extenders (2S, 2M, 2L)",13,22,Slip
+205,"T Back Midi Lace Slip (2S, 2M, 2L)",13,22,Slip
+206,"Crochet Trim Maxi Slip (3XS/S, 3M/L)",13,22,Slip
+207,Woven Jacquard Kimono,10,22,Kimono
+208,"3 Quarter Sleeve Ribbed Henley (2S, 2M, 2L)",11.75,22,Tops
+209,"Layering Tank Top (3XS/S, 3M/L)",12,22,Tops
+210,"Satin Button Up Cami (2S, 2M, 2L)",11,22,Tops
+211,Velvet Choker,1.5,22,Choker
+212,Layered Tattoo and Lace Choker,1.5,56,Choker
+213,Venise Lace Choker,1.5,56,Choker
+214,Wide Suede Choker,1.5,56,Choker
+215,Elephant Print Kimono,7,56,Kimonos
+216,Mandala Kimono,7,56,Kimonos
+217,Floral Print Kimono,6.75,56,Kimonos
+218,Moroccan Kimono,7,56,Kimonos
+219,Colorful Lightweight Tassel Kimono,7,56,Kimonos
+220,Flower Power Kimono,7,56,Kimonos
+221,Tie Dye Kimono,7,56,Kimonos
+222,Egyptian Hieroglyphics Kimono,7,56,Kimonos
+223,Paisley Kimono With Tassel,7,56,Kimonos
+224,Lace Print Kimono,7,56,Kimonos
+225,Floral Pattern Kimono,7,56,Kimonos
+226,Embroidery Trim Kimono,4.9,56,Kimonos
