@@ -37,7 +37,7 @@
      inquirer.prompt([{
          name: "itemChoice",
          type: "input",
-         message: "Which Item would you like to buy?",
+         message: "Which Item would you like to buy?"
 
      }, {
          name: "quantity",
@@ -52,6 +52,9 @@
 
              if (answer.quantity < res[0].StockQuantity) {
                  console.log("You have successfuly purchased " + answer.quantity + " of the " + res[0].ProductName);
+                 var newQuantity = res[0].StockQuantity - answer.quantity;
+                 console.log("There are " + newQuantity + " left");
+                 // connection.query('UPDATE products SET ? WHERE ?', [{StockQuantity: newQuantity},{ItemID = answer.itemChoice}], function(err, res){});
                  nexttrans();
              } else {
                  console.log("Insufficient Quantity!")
@@ -80,41 +83,3 @@
          }
      })
  };
-
-
-
-
- // prompt.start();
-
- // var Question1 = 'What is the Item ID of the Item you would like to buy?';
- // var Question2 = 'How many would you like to buy?';
-
- // prompt.get([Question1, Question2], function(err, result) {
-
- //     var Question1 = 'What is the Item ID of the Item you would like to buy?';
- //     var Question2 = 'How many would you like to buy?';
-
- //     console.log(Question1.result);
- //     console.log(Question2.result);
-
- // });
-
- // prompt.get([{
-
- //       name: 'What is the item ID # that you would like to buy?',
- //       required: true
- //     }, {
- //       name: 'How many would you like to buy?',
- //       hidden: true,
- //       conform: function (value) {
- //         return true;
- //       }
- //     }], function (err, result) {
- //     // 
- //     // Log the results. 
- //     // 
- //     console.log('Command-line input received:');
- //     console.log('  username: ' + result.username);
- //     console.log('  password: ' + result.password);
- //   });
- //
