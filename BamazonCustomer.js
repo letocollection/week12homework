@@ -54,7 +54,7 @@
                  console.log("You have successfuly purchased " + answer.quantity + " of the " + res[0].ProductName);
                  var newQuantity = res[0].StockQuantity - answer.quantity;
                  console.log("There are " + newQuantity + " left");
-                 // connection.query('UPDATE products SET ? WHERE ?', [{StockQuantity: newQuantity},{ItemID = answer.itemChoice}], function(err, res){});
+                 connection.query('UPDATE products SET ? WHERE ?', [{StockQuantity: newQuantity},{ItemID: answer.itemChoice}], function(err, res){});
                  nexttrans();
              } else {
                  console.log("Insufficient Quantity!")
